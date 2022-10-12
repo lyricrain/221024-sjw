@@ -13,7 +13,7 @@ import model.MemberVO;
 
 /**
  * Servlet implementation class LoginServlet
- * 작업추가 2 3 4 5
+ * 작업추가 2 3 4 5 6
  */
 @WebServlet("/LoginServlet")
 public class LoginServlet extends HttpServlet {
