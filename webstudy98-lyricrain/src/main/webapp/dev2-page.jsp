@@ -13,8 +13,7 @@
 </head>
 <body>
 <div class="container pt-3">
-dev1
-dev2
+
 </div>
 </body>
 </html>
